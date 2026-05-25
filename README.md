@@ -1,6 +1,6 @@
 # Clasificación de figuras mitóticas normales y atípicas
 
-Se procesan imágenes histológicas de figuras mitóticas para extraer características cuantitativas asociadas a la imagen completa, la región celular/nuclear central y la cromatina, con el fin de usar estas variables como entrada para modelos clásicos de Machine Learning como SVM, Random Forest, KNN y regresión logística.
+Se procesan imágenes histológicas de figuras mitóticas para extraer características cuantitativas asociadas a la imagen completa, la región celular/nuclear central y la cromatina, con el fin de usar estas variables como entrada para los modelos de Machine Learning: KNN, árboles de decisión, SVM y redes neuronales (MLP).
 
 ---
 
@@ -48,7 +48,7 @@ Contiene la tabla de características extraídas por imagen. Esta tabla es la en
 data/processed/ml_ready/
 ```
 
-Contiene las matrices, vectores, nombres de imágenes, nombres de características y reportes necesarios para entrenar y evaluar modelos de Machine Learning basados en variables tabulares.
+Contiene las matrices, vectores, nombres de imágenes, nombres de características y reportes necesarios para entrenar y evaluar los modelos de Machine Learning basados en variables tabulares.
 
 ---
 
@@ -121,18 +121,6 @@ data/processed/ml_ready/validation_dataset.csv
 data/processed/ml_ready/label_mapping.csv
 data/processed/ml_ready/discarded_by_warning.csv
 data/processed/ml_ready/discarded_images_detail.csv
-```
-
-#### Ejecución
-
-```bash
-python build_ml_dataset.py
-```
-
-#### Revisión de archivos generados
-
-```bash
-ls data/processed/ml_ready/
 ```
 
 ---
