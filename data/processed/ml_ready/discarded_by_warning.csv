@@ -1,0 +1,7 @@
+numero_de_descartadas,motivo_de_descarte,imagenes_descartadas
+0,sin cromatina segmentada,
+0,máscara de cromatina demasiado grande,
+0,tejido casi vacío,
+4,demasiados componentes/células segmentadas,26.png; 31.png; 40.png; 51.png
+0,selección final vacía aunque la máscara cruda no estaba vacía,
+0,selección central realizada por fallback,

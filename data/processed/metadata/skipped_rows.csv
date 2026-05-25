@@ -1,0 +1,406 @@
+image_id_for_processing,image_path,skip_reason,image_id,filename,coordinateX,coordinateY,Tumor,Scanner,Origin,Species,expert1,expert2,expert3,majority,source_csv_image_id
+8927.png,data/raw/images/8927.png,image_file_not_found_in_csv,,,,,,,,,,,,,
+17.png,,csv_image_not_present_in_images_dir,17.png,201.tiff,537.0,4919.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,17.png
+18.png,,csv_image_not_present_in_images_dir,18.png,201.tiff,17.0,67.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,18.png
+35.png,,csv_image_not_present_in_images_dir,35.png,203.tiff,2055.0,45.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,35.png
+69.png,,csv_image_not_present_in_images_dir,69.png,204.tiff,54.0,3205.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,69.png
+76.png,,csv_image_not_present_in_images_dir,76.png,205.tiff,4674.0,25.0,canine lung cancer,3D Histech,VMU Vienna,Canine,AMF,AMF,,AMF,76.png
+97.png,,csv_image_not_present_in_images_dir,97.png,205.tiff,6562.0,4276.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,97.png
+98.png,,csv_image_not_present_in_images_dir,98.png,205.tiff,1214.0,4880.0,canine lung cancer,3D Histech,VMU Vienna,Canine,AMF,NMF,NMF,NMF,98.png
+99.png,,csv_image_not_present_in_images_dir,99.png,205.tiff,4418.0,4890.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,99.png
+102.png,,csv_image_not_present_in_images_dir,102.png,206.tiff,4307.0,43.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,102.png
+106.png,,csv_image_not_present_in_images_dir,106.png,206.tiff,58.0,4869.0,canine lung cancer,3D Histech,VMU Vienna,Canine,AMF,NMF,NMF,NMF,106.png
+152.png,,csv_image_not_present_in_images_dir,152.png,212.tiff,1186.0,26.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,152.png
+174.png,,csv_image_not_present_in_images_dir,174.png,212.tiff,6516.0,3916.0,canine lung cancer,3D Histech,VMU Vienna,Canine,AMF,AMF,,AMF,174.png
+240.png,,csv_image_not_present_in_images_dir,240.png,218.tiff,2464.0,4873.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,240.png
+293.png,,csv_image_not_present_in_images_dir,293.png,220.tiff,6539.0,3639.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,293.png
+295.png,,csv_image_not_present_in_images_dir,295.png,220.tiff,195.0,4878.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,295.png
+326.png,,csv_image_not_present_in_images_dir,326.png,221.tiff,2254.0,54.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,326.png
+615.png,,csv_image_not_present_in_images_dir,615.png,240.tiff,6544.0,2813.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,615.png
+623.png,,csv_image_not_present_in_images_dir,623.png,241.tiff,6515.0,343.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,623.png
+624.png,,csv_image_not_present_in_images_dir,624.png,241.tiff,6514.0,1541.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,624.png
+752.png,,csv_image_not_present_in_images_dir,752.png,245.tiff,6520.0,3700.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,752.png
+756.png,,csv_image_not_present_in_images_dir,756.png,245.tiff,6530.0,4641.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,756.png
+757.png,,csv_image_not_present_in_images_dir,757.png,245.tiff,5954.0,4885.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,757.png
+758.png,,csv_image_not_present_in_images_dir,758.png,245.tiff,6061.0,4882.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,758.png
+764.png,,csv_image_not_present_in_images_dir,764.png,246.tiff,649.0,54.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,764.png
+840.png,,csv_image_not_present_in_images_dir,840.png,246.tiff,61.0,3851.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,840.png
+865.png,,csv_image_not_present_in_images_dir,865.png,246.tiff,2322.0,4916.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,865.png
+868.png,,csv_image_not_present_in_images_dir,868.png,246.tiff,4051.0,4917.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,868.png
+869.png,,csv_image_not_present_in_images_dir,869.png,246.tiff,5049.0,4900.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,869.png
+888.png,,csv_image_not_present_in_images_dir,888.png,247.tiff,2656.0,4903.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,888.png
+910.png,,csv_image_not_present_in_images_dir,910.png,249.tiff,57.0,2052.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,910.png
+945.png,,csv_image_not_present_in_images_dir,945.png,249.tiff,39.0,2983.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,945.png
+996.png,,csv_image_not_present_in_images_dir,996.png,249.tiff,6224.0,4890.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,996.png
+1039.png,,csv_image_not_present_in_images_dir,1039.png,251.tiff,2144.0,4919.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1039.png
+1040.png,,csv_image_not_present_in_images_dir,1040.png,251.tiff,6097.0,4875.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1040.png
+1046.png,,csv_image_not_present_in_images_dir,1046.png,252.tiff,43.0,853.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1046.png
+1076.png,,csv_image_not_present_in_images_dir,1076.png,253.tiff,2534.0,20.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1076.png
+1080.png,,csv_image_not_present_in_images_dir,1080.png,253.tiff,5478.0,17.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1080.png
+1113.png,,csv_image_not_present_in_images_dir,1113.png,253.tiff,6568.0,3185.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1113.png
+1135.png,,csv_image_not_present_in_images_dir,1135.png,253.tiff,2545.0,4904.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1135.png
+1162.png,,csv_image_not_present_in_images_dir,1162.png,254.tiff,6555.0,2109.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1162.png
+1275.png,,csv_image_not_present_in_images_dir,1275.png,255.tiff,6544.0,497.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1275.png
+1286.png,,csv_image_not_present_in_images_dir,1286.png,256.tiff,3633.0,26.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1286.png
+1326.png,,csv_image_not_present_in_images_dir,1326.png,256.tiff,3155.0,4919.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1326.png
+1353.png,,csv_image_not_present_in_images_dir,1353.png,258.tiff,3161.0,32.0,canine lymphoma,3D Histech,VMU Vienna,Canine,AMF,AMF,,AMF,1353.png
+1356.png,,csv_image_not_present_in_images_dir,1356.png,258.tiff,5364.0,39.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,AMF,NMF,NMF,1356.png
+1357.png,,csv_image_not_present_in_images_dir,1357.png,258.tiff,5504.0,49.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1357.png
+1380.png,,csv_image_not_present_in_images_dir,1380.png,260.tiff,37.0,1615.0,canine lymphoma,3D Histech,VMU Vienna,Canine,AMF,AMF,,AMF,1380.png
+1422.png,,csv_image_not_present_in_images_dir,1422.png,260.tiff,3488.0,4878.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1422.png
+1459.png,,csv_image_not_present_in_images_dir,1459.png,261.tiff,55.0,4521.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1459.png
+1461.png,,csv_image_not_present_in_images_dir,1461.png,261.tiff,37.0,3756.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1461.png
+1478.png,,csv_image_not_present_in_images_dir,1478.png,262.tiff,833.0,15.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1478.png
+1506.png,,csv_image_not_present_in_images_dir,1506.png,262.tiff,14.0,1472.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1506.png
+1569.png,,csv_image_not_present_in_images_dir,1569.png,262.tiff,4771.0,4917.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1569.png
+1575.png,,csv_image_not_present_in_images_dir,1575.png,262.tiff,58.0,3262.0,canine lymphoma,3D Histech,VMU Vienna,Canine,AMF,AMF,,AMF,1575.png
+1605.png,,csv_image_not_present_in_images_dir,1605.png,264.tiff,46.0,3622.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1605.png
+1642.png,,csv_image_not_present_in_images_dir,1642.png,266.tiff,2910.0,17.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1642.png
+1702.png,,csv_image_not_present_in_images_dir,1702.png,267.tiff,3303.0,45.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1702.png
+1703.png,,csv_image_not_present_in_images_dir,1703.png,267.tiff,3345.0,18.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1703.png
+1711.png,,csv_image_not_present_in_images_dir,1711.png,267.tiff,26.0,1606.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,AMF,NMF,NMF,1711.png
+1751.png,,csv_image_not_present_in_images_dir,1751.png,267.tiff,37.0,3375.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1751.png
+1786.png,,csv_image_not_present_in_images_dir,1786.png,267.tiff,3082.0,4902.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1786.png
+1788.png,,csv_image_not_present_in_images_dir,1788.png,267.tiff,4763.0,4920.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1788.png
+1818.png,,csv_image_not_present_in_images_dir,1818.png,268.tiff,4901.0,59.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1818.png
+1944.png,,csv_image_not_present_in_images_dir,1944.png,268.tiff,2940.0,4892.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1944.png
+1950.png,,csv_image_not_present_in_images_dir,1950.png,268.tiff,3275.0,4906.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1950.png
+1971.png,,csv_image_not_present_in_images_dir,1971.png,269.tiff,5247.0,44.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1971.png
+1972.png,,csv_image_not_present_in_images_dir,1972.png,269.tiff,5912.0,45.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,1972.png
+2016.png,,csv_image_not_present_in_images_dir,2016.png,270.tiff,820.0,19.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2016.png
+2043.png,,csv_image_not_present_in_images_dir,2043.png,270.tiff,6528.0,983.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2043.png
+2070.png,,csv_image_not_present_in_images_dir,2070.png,270.tiff,6531.0,3051.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2070.png
+2102.png,,csv_image_not_present_in_images_dir,2102.png,270.tiff,13.0,1788.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2102.png
+2107.png,,csv_image_not_present_in_images_dir,2107.png,271.tiff,15.0,167.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2107.png
+2131.png,,csv_image_not_present_in_images_dir,2131.png,271.tiff,23.0,1737.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2131.png
+2132.png,,csv_image_not_present_in_images_dir,2132.png,271.tiff,12.0,1575.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2132.png
+2151.png,,csv_image_not_present_in_images_dir,2151.png,271.tiff,6548.0,1285.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2151.png
+2170.png,,csv_image_not_present_in_images_dir,2170.png,271.tiff,37.0,2782.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,AMF,NMF,NMF,2170.png
+2202.png,,csv_image_not_present_in_images_dir,2202.png,271.tiff,6539.0,4154.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,AMF,NMF,NMF,2202.png
+2205.png,,csv_image_not_present_in_images_dir,2205.png,271.tiff,5764.0,4899.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2205.png
+2210.png,,csv_image_not_present_in_images_dir,2210.png,271.tiff,6534.0,984.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2210.png
+2229.png,,csv_image_not_present_in_images_dir,2229.png,272.tiff,4157.0,57.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2229.png
+2232.png,,csv_image_not_present_in_images_dir,2232.png,272.tiff,5252.0,25.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2232.png
+2265.png,,csv_image_not_present_in_images_dir,2265.png,272.tiff,6554.0,1749.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2265.png
+2272.png,,csv_image_not_present_in_images_dir,2272.png,272.tiff,55.0,2059.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2272.png
+2304.png,,csv_image_not_present_in_images_dir,2304.png,272.tiff,6539.0,1966.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,AMF,NMF,NMF,2304.png
+2347.png,,csv_image_not_present_in_images_dir,2347.png,272.tiff,6574.0,3615.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2347.png
+2350.png,,csv_image_not_present_in_images_dir,2350.png,272.tiff,688.0,4924.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2350.png
+2405.png,,csv_image_not_present_in_images_dir,2405.png,273.tiff,20.0,3112.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2405.png
+2422.png,,csv_image_not_present_in_images_dir,2422.png,273.tiff,4731.0,56.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2422.png
+2444.png,,csv_image_not_present_in_images_dir,2444.png,275.tiff,52.0,3312.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2444.png
+2455.png,,csv_image_not_present_in_images_dir,2455.png,275.tiff,24.0,1833.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2455.png
+2505.png,,csv_image_not_present_in_images_dir,2505.png,277.tiff,2066.0,4883.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2505.png
+2509.png,,csv_image_not_present_in_images_dir,2509.png,277.tiff,3214.0,4873.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2509.png
+2530.png,,csv_image_not_present_in_images_dir,2530.png,280.tiff,1821.0,24.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,AMF,NMF,NMF,2530.png
+2540.png,,csv_image_not_present_in_images_dir,2540.png,280.tiff,4514.0,18.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2540.png
+2555.png,,csv_image_not_present_in_images_dir,2555.png,280.tiff,6540.0,1328.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2555.png
+2556.png,,csv_image_not_present_in_images_dir,2556.png,280.tiff,27.0,2547.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2556.png
+2588.png,,csv_image_not_present_in_images_dir,2588.png,280.tiff,44.0,3724.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,AMF,NMF,NMF,2588.png
+2606.png,,csv_image_not_present_in_images_dir,2606.png,280.tiff,376.0,4876.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2606.png
+2653.png,,csv_image_not_present_in_images_dir,2653.png,281.tiff,4277.0,4911.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2653.png
+2695.png,,csv_image_not_present_in_images_dir,2695.png,282.tiff,3426.0,4872.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2695.png
+2697.png,,csv_image_not_present_in_images_dir,2697.png,282.tiff,16.0,3850.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2697.png
+2707.png,,csv_image_not_present_in_images_dir,2707.png,283.tiff,1188.0,50.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2707.png
+2736.png,,csv_image_not_present_in_images_dir,2736.png,283.tiff,6539.0,360.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2736.png
+2814.png,,csv_image_not_present_in_images_dir,2814.png,283.tiff,6562.0,3970.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2814.png
+2815.png,,csv_image_not_present_in_images_dir,2815.png,283.tiff,1023.0,4901.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,AMF,NMF,NMF,2815.png
+2817.png,,csv_image_not_present_in_images_dir,2817.png,283.tiff,1668.0,4910.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2817.png
+2824.png,,csv_image_not_present_in_images_dir,2824.png,283.tiff,2917.0,4896.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2824.png
+2841.png,,csv_image_not_present_in_images_dir,2841.png,284.tiff,2044.0,55.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2841.png
+2843.png,,csv_image_not_present_in_images_dir,2843.png,284.tiff,2430.0,16.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2843.png
+2869.png,,csv_image_not_present_in_images_dir,2869.png,284.tiff,6529.0,1805.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2869.png
+2908.png,,csv_image_not_present_in_images_dir,2908.png,285.tiff,43.0,238.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2908.png
+2987.png,,csv_image_not_present_in_images_dir,2987.png,286.tiff,4171.0,33.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2987.png
+2989.png,,csv_image_not_present_in_images_dir,2989.png,286.tiff,4645.0,37.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2989.png
+2993.png,,csv_image_not_present_in_images_dir,2993.png,286.tiff,6529.0,789.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,2993.png
+3041.png,,csv_image_not_present_in_images_dir,3041.png,286.tiff,3288.0,4882.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,AMF,AMF,AMF,3041.png
+3053.png,,csv_image_not_present_in_images_dir,3053.png,287.tiff,5734.0,44.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3053.png
+3121.png,,csv_image_not_present_in_images_dir,3121.png,289.tiff,2630.0,4914.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3121.png
+3158.png,,csv_image_not_present_in_images_dir,3158.png,291.tiff,6560.0,1358.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3158.png
+3208.png,,csv_image_not_present_in_images_dir,3208.png,291.tiff,6549.0,4721.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3208.png
+3209.png,,csv_image_not_present_in_images_dir,3209.png,291.tiff,52.0,649.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3209.png
+3214.png,,csv_image_not_present_in_images_dir,3214.png,292.tiff,2036.0,36.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3214.png
+3219.png,,csv_image_not_present_in_images_dir,3219.png,292.tiff,4633.0,28.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3219.png
+3225.png,,csv_image_not_present_in_images_dir,3225.png,292.tiff,6473.0,41.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3225.png
+3242.png,,csv_image_not_present_in_images_dir,3242.png,292.tiff,16.0,2277.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3242.png
+3255.png,,csv_image_not_present_in_images_dir,3255.png,292.tiff,6535.0,2605.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3255.png
+3258.png,,csv_image_not_present_in_images_dir,3258.png,292.tiff,31.0,3394.0,canine lymphoma,3D Histech,VMU Vienna,Canine,AMF,AMF,,AMF,3258.png
+3312.png,,csv_image_not_present_in_images_dir,3312.png,294.tiff,40.0,1249.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3312.png
+3351.png,,csv_image_not_present_in_images_dir,3351.png,295.tiff,3625.0,13.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3351.png
+3432.png,,csv_image_not_present_in_images_dir,3432.png,295.tiff,532.0,4922.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3432.png
+3446.png,,csv_image_not_present_in_images_dir,3446.png,297.tiff,6561.0,425.0,canine lymphoma,3D Histech,VMU Vienna,Canine,AMF,AMF,,AMF,3446.png
+3477.png,,csv_image_not_present_in_images_dir,3477.png,297.tiff,6083.0,4888.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3477.png
+3482.png,,csv_image_not_present_in_images_dir,3482.png,298.tiff,9.0,541.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3482.png
+3496.png,,csv_image_not_present_in_images_dir,3496.png,298.tiff,6515.0,961.0,canine lymphoma,3D Histech,VMU Vienna,Canine,AMF,NMF,AMF,AMF,3496.png
+3551.png,,csv_image_not_present_in_images_dir,3551.png,299.tiff,740.0,50.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3551.png
+3561.png,,csv_image_not_present_in_images_dir,3561.png,299.tiff,2795.0,35.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3561.png
+3564.png,,csv_image_not_present_in_images_dir,3564.png,299.tiff,3734.0,55.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3564.png
+3639.png,,csv_image_not_present_in_images_dir,3639.png,299.tiff,3656.0,4906.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3639.png
+3641.png,,csv_image_not_present_in_images_dir,3641.png,299.tiff,24.0,3438.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,3641.png
+3689.png,,csv_image_not_present_in_images_dir,3689.png,300.tiff,975.0,4775.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,3689.png
+3691.png,,csv_image_not_present_in_images_dir,3691.png,300.tiff,42.0,4446.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,3691.png
+3692.png,,csv_image_not_present_in_images_dir,3692.png,300.tiff,30.0,4732.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,AMF,AMF,,AMF,3692.png
+3693.png,,csv_image_not_present_in_images_dir,3693.png,300.tiff,191.0,4831.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,3693.png
+3727.png,,csv_image_not_present_in_images_dir,3727.png,300.tiff,1662.0,16.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,3727.png
+3728.png,,csv_image_not_present_in_images_dir,3728.png,300.tiff,1708.0,22.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,AMF,NMF,NMF,NMF,3728.png
+3768.png,,csv_image_not_present_in_images_dir,3768.png,300.tiff,3420.0,4786.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,3768.png
+3857.png,,csv_image_not_present_in_images_dir,3857.png,301.tiff,4544.0,26.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,3857.png
+3871.png,,csv_image_not_present_in_images_dir,3871.png,301.tiff,6000.0,9.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,AMF,NMF,NMF,3871.png
+3969.png,,csv_image_not_present_in_images_dir,3969.png,301.tiff,6391.0,2433.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,3969.png
+4037.png,,csv_image_not_present_in_images_dir,4037.png,301.tiff,6404.0,4186.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4037.png
+4039.png,,csv_image_not_present_in_images_dir,4039.png,301.tiff,5878.0,4812.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4039.png
+4050.png,,csv_image_not_present_in_images_dir,4050.png,303.tiff,155.0,19.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4050.png
+4051.png,,csv_image_not_present_in_images_dir,4051.png,303.tiff,238.0,20.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4051.png
+4054.png,,csv_image_not_present_in_images_dir,4054.png,303.tiff,380.0,61.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4054.png
+4056.png,,csv_image_not_present_in_images_dir,4056.png,303.tiff,1216.0,59.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,AMF,NMF,NMF,4056.png
+4175.png,,csv_image_not_present_in_images_dir,4175.png,303.tiff,6445.0,4357.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4175.png
+4186.png,,csv_image_not_present_in_images_dir,4186.png,303.tiff,6392.0,1761.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4186.png
+4210.png,,csv_image_not_present_in_images_dir,4210.png,303.tiff,30.0,3558.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4210.png
+4218.png,,csv_image_not_present_in_images_dir,4218.png,303.tiff,60.0,1360.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,AMF,AMF,AMF,4218.png
+4222.png,,csv_image_not_present_in_images_dir,4222.png,305.tiff,-2.0,2416.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,AMF,NMF,NMF,4222.png
+4249.png,,csv_image_not_present_in_images_dir,4249.png,305.tiff,5033.0,56.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4249.png
+4253.png,,csv_image_not_present_in_images_dir,4253.png,308.tiff,45.0,329.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4253.png
+4259.png,,csv_image_not_present_in_images_dir,4259.png,309.tiff,1310.0,61.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4259.png
+4275.png,,csv_image_not_present_in_images_dir,4275.png,309.tiff,54.0,1963.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4275.png
+4305.png,,csv_image_not_present_in_images_dir,4305.png,309.tiff,1041.0,4816.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4305.png
+4349.png,,csv_image_not_present_in_images_dir,4349.png,309.tiff,2232.0,24.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4349.png
+4405.png,,csv_image_not_present_in_images_dir,4405.png,309.tiff,3786.0,4786.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4405.png
+4463.png,,csv_image_not_present_in_images_dir,4463.png,310.tiff,167.0,4783.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4463.png
+4482.png,,csv_image_not_present_in_images_dir,4482.png,311.tiff,4196.0,4787.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4482.png
+4486.png,,csv_image_not_present_in_images_dir,4486.png,312.tiff,24.0,272.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4486.png
+4500.png,,csv_image_not_present_in_images_dir,4500.png,312.tiff,5094.0,60.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4500.png
+4501.png,,csv_image_not_present_in_images_dir,4501.png,312.tiff,5241.0,22.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4501.png
+4613.png,,csv_image_not_present_in_images_dir,4613.png,318.tiff,6414.0,4514.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,AMF,AMF,,AMF,4613.png
+4622.png,,csv_image_not_present_in_images_dir,4622.png,321.tiff,42.0,756.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,AMF,AMF,AMF,4622.png
+4628.png,,csv_image_not_present_in_images_dir,4628.png,321.tiff,1114.0,4787.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4628.png
+4635.png,,csv_image_not_present_in_images_dir,4635.png,321.tiff,3523.0,25.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4635.png
+4646.png,,csv_image_not_present_in_images_dir,4646.png,321.tiff,6391.0,4212.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4646.png
+4696.png,,csv_image_not_present_in_images_dir,4696.png,325.tiff,55.0,1978.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4696.png
+4697.png,,csv_image_not_present_in_images_dir,4697.png,325.tiff,19.0,2047.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,AMF,AMF,AMF,4697.png
+4726.png,,csv_image_not_present_in_images_dir,4726.png,325.tiff,53.0,4674.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4726.png
+4780.png,,csv_image_not_present_in_images_dir,4780.png,325.tiff,3604.0,48.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,AMF,AMF,,AMF,4780.png
+4822.png,,csv_image_not_present_in_images_dir,4822.png,325.tiff,4032.0,4816.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4822.png
+4873.png,,csv_image_not_present_in_images_dir,4873.png,325.tiff,5489.0,28.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4873.png
+4874.png,,csv_image_not_present_in_images_dir,4874.png,325.tiff,4818.0,29.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4874.png
+4875.png,,csv_image_not_present_in_images_dir,4875.png,325.tiff,6433.0,1953.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4875.png
+4890.png,,csv_image_not_present_in_images_dir,4890.png,325.tiff,5036.0,34.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4890.png
+4955.png,,csv_image_not_present_in_images_dir,4955.png,337.tiff,57.0,3398.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,4955.png
+4989.png,,csv_image_not_present_in_images_dir,4989.png,339.tiff,1659.0,41.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,AMF,AMF,,AMF,4989.png
+5003.png,,csv_image_not_present_in_images_dir,5003.png,339.tiff,2210.0,4801.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,AMF,NMF,NMF,5003.png
+5010.png,,csv_image_not_present_in_images_dir,5010.png,340.tiff,45.0,1606.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5010.png
+5061.png,,csv_image_not_present_in_images_dir,5061.png,340.tiff,6357.0,42.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5061.png
+5064.png,,csv_image_not_present_in_images_dir,5064.png,340.tiff,6400.0,4180.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5064.png
+5159.png,,csv_image_not_present_in_images_dir,5159.png,344.tiff,59.0,701.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5159.png
+5170.png,,csv_image_not_present_in_images_dir,5170.png,345.tiff,942.0,8.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5170.png
+5197.png,,csv_image_not_present_in_images_dir,5197.png,345.tiff,38.0,3308.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5197.png
+5209.png,,csv_image_not_present_in_images_dir,5209.png,345.tiff,1824.0,4831.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5209.png
+5210.png,,csv_image_not_present_in_images_dir,5210.png,345.tiff,3111.0,4772.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5210.png
+5251.png,,csv_image_not_present_in_images_dir,5251.png,345.tiff,3992.0,24.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5251.png
+5286.png,,csv_image_not_present_in_images_dir,5286.png,345.tiff,6047.0,4781.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5286.png
+5320.png,,csv_image_not_present_in_images_dir,5320.png,345.tiff,5888.0,21.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5320.png
+5324.png,,csv_image_not_present_in_images_dir,5324.png,345.tiff,6350.0,54.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5324.png
+5326.png,,csv_image_not_present_in_images_dir,5326.png,345.tiff,6384.0,2650.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5326.png
+5329.png,,csv_image_not_present_in_images_dir,5329.png,345.tiff,6388.0,4497.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5329.png
+5368.png,,csv_image_not_present_in_images_dir,5368.png,346.tiff,52.0,1670.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5368.png
+5386.png,,csv_image_not_present_in_images_dir,5386.png,346.tiff,30.0,2812.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5386.png
+5388.png,,csv_image_not_present_in_images_dir,5388.png,346.tiff,49.0,3654.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5388.png
+5396.png,,csv_image_not_present_in_images_dir,5396.png,346.tiff,38.0,3910.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5396.png
+5401.png,,csv_image_not_present_in_images_dir,5401.png,346.tiff,240.0,4796.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5401.png
+5407.png,,csv_image_not_present_in_images_dir,5407.png,346.tiff,2768.0,4792.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,AMF,AMF,AMF,5407.png
+5476.png,,csv_image_not_present_in_images_dir,5476.png,346.tiff,4651.0,4818.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5476.png
+5477.png,,csv_image_not_present_in_images_dir,5477.png,346.tiff,6020.0,4817.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5477.png
+5478.png,,csv_image_not_present_in_images_dir,5478.png,346.tiff,6236.0,4786.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5478.png
+5510.png,,csv_image_not_present_in_images_dir,5510.png,346.tiff,5906.0,38.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5510.png
+5515.png,,csv_image_not_present_in_images_dir,5515.png,346.tiff,6413.0,1925.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,,NMF,5515.png
+5597.png,,csv_image_not_present_in_images_dir,5597.png,353.tiff,1141.0,57.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,5597.png
+5599.png,,csv_image_not_present_in_images_dir,5599.png,353.tiff,3170.0,30.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,AMF,AMF,,AMF,5599.png
+5651.png,,csv_image_not_present_in_images_dir,5651.png,353.tiff,2566.0,5401.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,5651.png
+5653.png,,csv_image_not_present_in_images_dir,5653.png,353.tiff,5053.0,5404.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,5653.png
+5691.png,,csv_image_not_present_in_images_dir,5691.png,364.tiff,39.0,1837.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,AMF,AMF,,AMF,5691.png
+5772.png,,csv_image_not_present_in_images_dir,5772.png,389.tiff,638.0,52.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,5772.png
+5775.png,,csv_image_not_present_in_images_dir,5775.png,389.tiff,49.0,139.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,5775.png
+5776.png,,csv_image_not_present_in_images_dir,5776.png,389.tiff,72.0,18.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,5776.png
+5791.png,,csv_image_not_present_in_images_dir,5791.png,390.tiff,6867.0,5399.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,5791.png
+5803.png,,csv_image_not_present_in_images_dir,5803.png,392.tiff,22.0,1187.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,5803.png
+5841.png,,csv_image_not_present_in_images_dir,5841.png,400.tiff,3987.0,26.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,5841.png
+5914.png,,csv_image_not_present_in_images_dir,5914.png,400.tiff,2147.0,5389.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,5914.png
+5921.png,,csv_image_not_present_in_images_dir,5921.png,400.tiff,4679.0,5360.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,5921.png
+5927.png,,csv_image_not_present_in_images_dir,5927.png,400.tiff,7195.0,5389.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,5927.png
+5929.png,,csv_image_not_present_in_images_dir,5929.png,400.tiff,1922.0,5386.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,5929.png
+6027.png,,csv_image_not_present_in_images_dir,6027.png,402.tiff,37.0,4114.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,6027.png
+6050.png,,csv_image_not_present_in_images_dir,6050.png,402.tiff,6481.0,5372.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,6050.png
+6053.png,,csv_image_not_present_in_images_dir,6053.png,402.tiff,3918.0,17.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,6053.png
+6064.png,,csv_image_not_present_in_images_dir,6064.png,404.tiff,4524.0,19.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,AMF,NMF,NMF,6064.png
+6079.png,,csv_image_not_present_in_images_dir,6079.png,404.tiff,7200.0,1253.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,AMF,AMF,,AMF,6079.png
+6093.png,,csv_image_not_present_in_images_dir,6093.png,404.tiff,7168.0,2374.0,human neuroendocrine tumor,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,6093.png
+6120.png,,csv_image_not_present_in_images_dir,6120.png,406.tiff,6568.0,1744.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,,NMF,6120.png
+6130.png,,csv_image_not_present_in_images_dir,6130.png,407.tiff,33.0,4416.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,,NMF,6130.png
+6194.png,,csv_image_not_present_in_images_dir,6194.png,420.tiff,6556.0,3205.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,,NMF,6194.png
+6199.png,,csv_image_not_present_in_images_dir,6199.png,421.tiff,878.0,39.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,AMF,AMF,,AMF,6199.png
+6210.png,,csv_image_not_present_in_images_dir,6210.png,421.tiff,5524.0,48.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,,NMF,6210.png
+6212.png,,csv_image_not_present_in_images_dir,6212.png,421.tiff,5920.0,30.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,AMF,NMF,NMF,6212.png
+6249.png,,csv_image_not_present_in_images_dir,6249.png,421.tiff,3627.0,4917.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,,NMF,6249.png
+6283.png,,csv_image_not_present_in_images_dir,6283.png,425.tiff,2205.0,52.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,AMF,NMF,NMF,NMF,6283.png
+6457.png,,csv_image_not_present_in_images_dir,6457.png,439.tiff,43.0,1385.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,AMF,NMF,NMF,6457.png
+6458.png,,csv_image_not_present_in_images_dir,6458.png,439.tiff,4621.0,17.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,,NMF,6458.png
+6462.png,,csv_image_not_present_in_images_dir,6462.png,440.tiff,5734.0,45.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,,NMF,6462.png
+6500.png,,csv_image_not_present_in_images_dir,6500.png,440.tiff,1879.0,4915.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,,NMF,6500.png
+6602.png,,csv_image_not_present_in_images_dir,6602.png,449.tiff,1704.0,24.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,,NMF,6602.png
+6681.png,,csv_image_not_present_in_images_dir,6681.png,458.tiff,2214.0,51.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,,NMF,6681.png
+6767.png,,csv_image_not_present_in_images_dir,6767.png,459.tiff,52.0,1265.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,,NMF,6767.png
+6822.png,,csv_image_not_present_in_images_dir,6822.png,459.tiff,59.0,4455.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,AMF,NMF,NMF,6822.png
+6856.png,,csv_image_not_present_in_images_dir,6856.png,459.tiff,1270.0,4893.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,,NMF,6856.png
+6857.png,,csv_image_not_present_in_images_dir,6857.png,459.tiff,2536.0,4904.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,,NMF,6857.png
+6859.png,,csv_image_not_present_in_images_dir,6859.png,459.tiff,3401.0,4882.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,,NMF,6859.png
+6937.png,,csv_image_not_present_in_images_dir,6937.png,466.tiff,6537.0,3848.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,AMF,NMF,NMF,6937.png
+6976.png,,csv_image_not_present_in_images_dir,6976.png,470.tiff,5685.0,4879.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,,NMF,6976.png
+6977.png,,csv_image_not_present_in_images_dir,6977.png,470.tiff,1671.0,39.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,AMF,AMF,,AMF,6977.png
+6992.png,,csv_image_not_present_in_images_dir,6992.png,472.tiff,5995.0,4888.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,AMF,AMF,,AMF,6992.png
+6993.png,,csv_image_not_present_in_images_dir,6993.png,473.tiff,62.0,483.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,,NMF,6993.png
+7014.png,,csv_image_not_present_in_images_dir,7014.png,473.tiff,395.0,4902.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,AMF,AMF,,AMF,7014.png
+7109.png,,csv_image_not_present_in_images_dir,7109.png,486.tiff,5680.0,4915.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,,NMF,7109.png
+7154.png,,csv_image_not_present_in_images_dir,7154.png,493.tiff,2584.0,4887.0,canine soft tissue sarcoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,7154.png
+7155.png,,csv_image_not_present_in_images_dir,7155.png,494.tiff,4644.0,55.0,canine soft tissue sarcoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,7155.png
+7157.png,,csv_image_not_present_in_images_dir,7157.png,494.tiff,3124.0,4895.0,canine soft tissue sarcoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,7157.png
+7165.png,,csv_image_not_present_in_images_dir,7165.png,496.tiff,5620.0,4903.0,canine soft tissue sarcoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,7165.png
+7174.png,,csv_image_not_present_in_images_dir,7174.png,499.tiff,25.0,727.0,canine soft tissue sarcoma,3D Histech,VMU Vienna,Canine,NMF,NMF,,NMF,7174.png
+7302.png,,csv_image_not_present_in_images_dir,7302.png,504.tiff,6033.0,4891.0,canine soft tissue sarcoma,3D Histech,VMU Vienna,Canine,AMF,AMF,,AMF,7302.png
+7457.png,,csv_image_not_present_in_images_dir,7457.png,527.tiff,2050.0,5366.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,AMF,AMF,,AMF,7457.png
+7460.png,,csv_image_not_present_in_images_dir,7460.png,527.tiff,5208.0,5352.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,7460.png
+7512.png,,csv_image_not_present_in_images_dir,7512.png,528.tiff,533.0,5368.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,AMF,AMF,,AMF,7512.png
+7538.png,,csv_image_not_present_in_images_dir,7538.png,531.tiff,18.0,1843.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,AMF,AMF,,AMF,7538.png
+7544.png,,csv_image_not_present_in_images_dir,7544.png,531.tiff,7164.0,3038.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,7544.png
+7582.png,,csv_image_not_present_in_images_dir,7582.png,533.tiff,469.0,5353.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,7582.png
+7706.png,,csv_image_not_present_in_images_dir,7706.png,548.tiff,5133.0,41.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,AMF,NMF,AMF,AMF,7706.png
+7707.png,,csv_image_not_present_in_images_dir,7707.png,548.tiff,5280.0,36.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,AMF,NMF,AMF,AMF,7707.png
+7710.png,,csv_image_not_present_in_images_dir,7710.png,548.tiff,6465.0,63.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,7710.png
+7711.png,,csv_image_not_present_in_images_dir,7711.png,548.tiff,6149.0,32.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,7711.png
+7716.png,,csv_image_not_present_in_images_dir,7716.png,548.tiff,7155.0,696.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,7716.png
+7769.png,,csv_image_not_present_in_images_dir,7769.png,548.tiff,28.0,2663.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,7769.png
+7852.png,,csv_image_not_present_in_images_dir,7852.png,548.tiff,7162.0,3475.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,7852.png
+7880.png,,csv_image_not_present_in_images_dir,7880.png,548.tiff,3037.0,5358.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,7880.png
+7897.png,,csv_image_not_present_in_images_dir,7897.png,548.tiff,7174.0,4947.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,7897.png
+7940.png,,csv_image_not_present_in_images_dir,7940.png,549.tiff,4693.0,5358.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,AMF,AMF,,AMF,7940.png
+7941.png,,csv_image_not_present_in_images_dir,7941.png,549.tiff,5947.0,5378.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,7941.png
+7975.png,,csv_image_not_present_in_images_dir,7975.png,550.tiff,59.0,4968.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,AMF,AMF,,AMF,7975.png
+7982.png,,csv_image_not_present_in_images_dir,7982.png,550.tiff,3131.0,13.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,7982.png
+8006.png,,csv_image_not_present_in_images_dir,8006.png,551.tiff,4627.0,5403.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,8006.png
+8009.png,,csv_image_not_present_in_images_dir,8009.png,552.tiff,1837.0,57.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,AMF,NMF,NMF,8009.png
+8042.png,,csv_image_not_present_in_images_dir,8042.png,552.tiff,7208.0,1996.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,8042.png
+8054.png,,csv_image_not_present_in_images_dir,8054.png,552.tiff,7171.0,2734.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,,NMF,8054.png
+8085.png,,csv_image_not_present_in_images_dir,8085.png,552.tiff,5112.0,5368.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,AMF,AMF,,AMF,8085.png
+8086.png,,csv_image_not_present_in_images_dir,8086.png,552.tiff,7158.0,4861.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,AMF,AMF,,AMF,8086.png
+8167.png,,csv_image_not_present_in_images_dir,8167.png,008.tiff,6291.0,5365.0,human breast cancer,Hamammatsu XR,UMC Utrecht,Human,NMF,NMF,AMF,NMF,8167.png
+8184.png,,csv_image_not_present_in_images_dir,8184.png,010.tiff,2227.0,5376.0,human breast cancer,Hamammatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8184.png
+8208.png,,csv_image_not_present_in_images_dir,8208.png,013.tiff,3656.0,5377.0,human breast cancer,Hamammatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8208.png
+8209.png,,csv_image_not_present_in_images_dir,8209.png,013.tiff,3727.0,5362.0,human breast cancer,Hamammatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8209.png
+8225.png,,csv_image_not_present_in_images_dir,8225.png,016.tiff,7157.0,2840.0,human breast cancer,Hamammatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8225.png
+8270.png,,csv_image_not_present_in_images_dir,8270.png,024.tiff,2510.0,16.0,human breast cancer,Hamammatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8270.png
+8272.png,,csv_image_not_present_in_images_dir,8272.png,024.tiff,550.0,47.0,human breast cancer,Hamammatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8272.png
+8278.png,,csv_image_not_present_in_images_dir,8278.png,024.tiff,6739.0,38.0,human breast cancer,Hamammatsu XR,UMC Utrecht,Human,AMF,AMF,AMF,AMF,8278.png
+8304.png,,csv_image_not_present_in_images_dir,8304.png,024.tiff,7197.0,4231.0,human breast cancer,Hamammatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8304.png
+8318.png,,csv_image_not_present_in_images_dir,8318.png,027.tiff,1575.0,23.0,human breast cancer,Hamammatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8318.png
+8323.png,,csv_image_not_present_in_images_dir,8323.png,027.tiff,7180.0,330.0,human breast cancer,Hamammatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8323.png
+8366.png,,csv_image_not_present_in_images_dir,8366.png,032.tiff,4585.0,5373.0,human breast cancer,Hamammatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8366.png
+8401.png,,csv_image_not_present_in_images_dir,8401.png,034.tiff,57.0,3416.0,human breast cancer,Hamammatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8401.png
+8434.png,,csv_image_not_present_in_images_dir,8434.png,035.tiff,3085.0,5361.0,human breast cancer,Hamammatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8434.png
+8453.png,,csv_image_not_present_in_images_dir,8453.png,039.tiff,3787.0,19.0,human breast cancer,Hamammatsu XR,UMC Utrecht,Human,AMF,NMF,AMF,AMF,8453.png
+8458.png,,csv_image_not_present_in_images_dir,8458.png,039.tiff,6892.0,59.0,human breast cancer,Hamammatsu XR,UMC Utrecht,Human,AMF,NMF,AMF,AMF,8458.png
+8515.png,,csv_image_not_present_in_images_dir,8515.png,043.tiff,58.0,2737.0,human breast cancer,Hamammatsu XR,UMC Utrecht,Human,AMF,NMF,AMF,AMF,8515.png
+8568.png,,csv_image_not_present_in_images_dir,8568.png,055.tiff,550.0,25.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8568.png
+8608.png,,csv_image_not_present_in_images_dir,8608.png,059.tiff,36.0,1673.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8608.png
+8657.png,,csv_image_not_present_in_images_dir,8657.png,064.tiff,3805.0,5246.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,NMF,AMF,AMF,AMF,8657.png
+8732.png,,csv_image_not_present_in_images_dir,8732.png,072.tiff,41.0,1548.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8732.png
+8738.png,,csv_image_not_present_in_images_dir,8738.png,072.tiff,7074.0,1009.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8738.png
+8802.png,,csv_image_not_present_in_images_dir,8802.png,078.tiff,4375.0,49.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,NMF,NMF,AMF,NMF,8802.png
+8849.png,,csv_image_not_present_in_images_dir,8849.png,078.tiff,2054.0,5243.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8849.png
+8854.png,,csv_image_not_present_in_images_dir,8854.png,078.tiff,16.0,3242.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,NMF,AMF,AMF,AMF,8854.png
+8862.png,,csv_image_not_present_in_images_dir,8862.png,079.tiff,3621.0,5332.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,AMF,AMF,AMF,AMF,8862.png
+8868.png,,csv_image_not_present_in_images_dir,8868.png,080.tiff,40.0,5268.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8868.png
+8915.png,,csv_image_not_present_in_images_dir,8915.png,084.tiff,187.0,5329.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,NMF,AMF,AMF,AMF,8915.png
+8933.png,,csv_image_not_present_in_images_dir,8933.png,086.tiff,6858.0,39.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8933.png
+8949.png,,csv_image_not_present_in_images_dir,8949.png,087.tiff,27.0,489.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8949.png
+8979.png,,csv_image_not_present_in_images_dir,8979.png,092.tiff,1060.0,26.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,NMF,NMF,NMF,NMF,8979.png
+8994.png,,csv_image_not_present_in_images_dir,8994.png,093.tiff,5577.0,5234.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,AMF,NMF,AMF,AMF,8994.png
+9103.png,,csv_image_not_present_in_images_dir,9103.png,100.tiff,63.0,918.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,NMF,AMF,NMF,NMF,9103.png
+9108.png,,csv_image_not_present_in_images_dir,9108.png,100.tiff,47.0,2216.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9108.png
+9142.png,,csv_image_not_present_in_images_dir,9142.png,100.tiff,60.0,3023.0,human breast cancer,Hamamatsu S360,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9142.png
+9169.png,,csv_image_not_present_in_images_dir,9169.png,102.tiff,5791.0,4785.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9169.png
+9296.png,,csv_image_not_present_in_images_dir,9296.png,113.tiff,2630.0,57.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9296.png
+9330.png,,csv_image_not_present_in_images_dir,9330.png,117.tiff,2928.0,53.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9330.png
+9331.png,,csv_image_not_present_in_images_dir,9331.png,117.tiff,12.0,2108.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9331.png
+9344.png,,csv_image_not_present_in_images_dir,9344.png,118.tiff,6415.0,2827.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9344.png
+9366.png,,csv_image_not_present_in_images_dir,9366.png,121.tiff,6445.0,3319.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9366.png
+9371.png,,csv_image_not_present_in_images_dir,9371.png,122.tiff,6442.0,2374.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9371.png
+9390.png,,csv_image_not_present_in_images_dir,9390.png,123.tiff,6442.0,2156.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9390.png
+9408.png,,csv_image_not_present_in_images_dir,9408.png,123.tiff,6433.0,4173.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,AMF,NMF,9408.png
+9410.png,,csv_image_not_present_in_images_dir,9410.png,123.tiff,1967.0,4791.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9410.png
+9414.png,,csv_image_not_present_in_images_dir,9414.png,124.tiff,792.0,4764.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9414.png
+9419.png,,csv_image_not_present_in_images_dir,9419.png,125.tiff,6494.0,1688.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,AMF,AMF,AMF,AMF,9419.png
+9432.png,,csv_image_not_present_in_images_dir,9432.png,127.tiff,3087.0,4806.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9432.png
+9434.png,,csv_image_not_present_in_images_dir,9434.png,128.tiff,2293.0,48.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,AMF,AMF,AMF,AMF,9434.png
+9504.png,,csv_image_not_present_in_images_dir,9504.png,131.tiff,1662.0,4838.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,AMF,AMF,AMF,9504.png
+9531.png,,csv_image_not_present_in_images_dir,9531.png,134.tiff,60.0,1747.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9531.png
+9544.png,,csv_image_not_present_in_images_dir,9544.png,134.tiff,59.0,3107.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,AMF,AMF,AMF,AMF,9544.png
+9586.png,,csv_image_not_present_in_images_dir,9586.png,134.tiff,5259.0,4804.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9586.png
+9596.png,,csv_image_not_present_in_images_dir,9596.png,135.tiff,5268.0,4807.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9596.png
+9691.png,,csv_image_not_present_in_images_dir,9691.png,139.tiff,19.0,1248.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,AMF,AMF,AMF,AMF,9691.png
+9704.png,,csv_image_not_present_in_images_dir,9704.png,140.tiff,6453.0,3042.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,AMF,AMF,AMF,9704.png
+9718.png,,csv_image_not_present_in_images_dir,9718.png,141.tiff,6439.0,80.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9718.png
+9747.png,,csv_image_not_present_in_images_dir,9747.png,141.tiff,3572.0,4806.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,AMF,NMF,9747.png
+9748.png,,csv_image_not_present_in_images_dir,9748.png,141.tiff,5441.0,4789.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,AMF,AMF,AMF,AMF,9748.png
+9785.png,,csv_image_not_present_in_images_dir,9785.png,146.tiff,5646.0,59.0,human breast cancer,Aperio CS2,UMC Utrecht,Human,NMF,NMF,NMF,NMF,9785.png
+9831.png,,csv_image_not_present_in_images_dir,9831.png,210.tiff,1560.0,55.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,9831.png
+9858.png,,csv_image_not_present_in_images_dir,9858.png,210.tiff,45.0,4064.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,9858.png
+9868.png,,csv_image_not_present_in_images_dir,9868.png,210.tiff,6524.0,3693.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,9868.png
+9873.png,,csv_image_not_present_in_images_dir,9873.png,210.tiff,2108.0,4875.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,AMF,NMF,9873.png
+9915.png,,csv_image_not_present_in_images_dir,9915.png,219.tiff,2550.0,4884.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,9915.png
+9930.png,,csv_image_not_present_in_images_dir,9930.png,226.tiff,6565.0,2422.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,9930.png
+9939.png,,csv_image_not_present_in_images_dir,9939.png,229.tiff,4281.0,20.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,9939.png
+9971.png,,csv_image_not_present_in_images_dir,9971.png,229.tiff,46.0,4578.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,9971.png
+9972.png,,csv_image_not_present_in_images_dir,9972.png,229.tiff,1701.0,4891.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,9972.png
+9981.png,,csv_image_not_present_in_images_dir,9981.png,233.tiff,6556.0,2293.0,canine lung cancer,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,9981.png
+10116.png,,csv_image_not_present_in_images_dir,10116.png,248.tiff,2210.0,4915.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10116.png
+10117.png,,csv_image_not_present_in_images_dir,10117.png,248.tiff,2650.0,4871.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10117.png
+10121.png,,csv_image_not_present_in_images_dir,10121.png,248.tiff,21.0,604.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10121.png
+10149.png,,csv_image_not_present_in_images_dir,10149.png,250.tiff,6523.0,369.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10149.png
+10229.png,,csv_image_not_present_in_images_dir,10229.png,250.tiff,53.0,4770.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10229.png
+10252.png,,csv_image_not_present_in_images_dir,10252.png,250.tiff,2234.0,4918.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10252.png
+10306.png,,csv_image_not_present_in_images_dir,10306.png,259.tiff,1401.0,4891.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10306.png
+10314.png,,csv_image_not_present_in_images_dir,10314.png,263.tiff,35.0,899.0,canine lymphoma,3D Histech,VMU Vienna,Canine,AMF,AMF,NMF,AMF,10314.png
+10407.png,,csv_image_not_present_in_images_dir,10407.png,278.tiff,3007.0,46.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10407.png
+10423.png,,csv_image_not_present_in_images_dir,10423.png,278.tiff,18.0,2782.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10423.png
+10483.png,,csv_image_not_present_in_images_dir,10483.png,288.tiff,117.0,46.0,canine lymphoma,3D Histech,VMU Vienna,Canine,AMF,AMF,NMF,NMF,10483.png
+10496.png,,csv_image_not_present_in_images_dir,10496.png,288.tiff,2735.0,36.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10496.png
+10504.png,,csv_image_not_present_in_images_dir,10504.png,288.tiff,4934.0,61.0,canine lymphoma,3D Histech,VMU Vienna,Canine,AMF,NMF,NMF,NMF,10504.png
+10508.png,,csv_image_not_present_in_images_dir,10508.png,288.tiff,5355.0,18.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10508.png
+10660.png,,csv_image_not_present_in_images_dir,10660.png,288.tiff,425.0,4878.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10660.png
+10686.png,,csv_image_not_present_in_images_dir,10686.png,290.tiff,2428.0,33.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10686.png
+10698.png,,csv_image_not_present_in_images_dir,10698.png,290.tiff,5451.0,40.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10698.png
+10704.png,,csv_image_not_present_in_images_dir,10704.png,290.tiff,6538.0,196.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10704.png
+10708.png,,csv_image_not_present_in_images_dir,10708.png,290.tiff,6135.0,14.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10708.png
+10786.png,,csv_image_not_present_in_images_dir,10786.png,290.tiff,6534.0,1990.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10786.png
+10853.png,,csv_image_not_present_in_images_dir,10853.png,290.tiff,1760.0,4879.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10853.png
+10854.png,,csv_image_not_present_in_images_dir,10854.png,290.tiff,2203.0,4904.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,AMF,NMF,NMF,10854.png
+10871.png,,csv_image_not_present_in_images_dir,10871.png,290.tiff,858.0,4924.0,canine lymphoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,10871.png
+11042.png,,csv_image_not_present_in_images_dir,11042.png,307.tiff,1166.0,4789.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,NMF,NMF,11042.png
+11043.png,,csv_image_not_present_in_images_dir,11043.png,307.tiff,2432.0,4794.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,NMF,NMF,11043.png
+11151.png,,csv_image_not_present_in_images_dir,11151.png,307.tiff,6440.0,448.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,NMF,NMF,11151.png
+11182.png,,csv_image_not_present_in_images_dir,11182.png,328.tiff,1186.0,19.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,NMF,NMF,11182.png
+11277.png,,csv_image_not_present_in_images_dir,11277.png,328.tiff,5041.0,4791.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,NMF,NMF,11277.png
+11339.png,,csv_image_not_present_in_images_dir,11339.png,331.tiff,3941.0,4826.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,AMF,NMF,AMF,AMF,11339.png
+11362.png,,csv_image_not_present_in_images_dir,11362.png,335.tiff,6439.0,3197.0,canine cutaneous mast cell tumor,Aperio CS2,FU Berlin,Canine,NMF,NMF,NMF,NMF,11362.png
+11565.png,,csv_image_not_present_in_images_dir,11565.png,471.tiff,49.0,3679.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,NMF,NMF,11565.png
+11568.png,,csv_image_not_present_in_images_dir,11568.png,471.tiff,2547.0,4895.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,AMF,NMF,NMF,11568.png
+11571.png,,csv_image_not_present_in_images_dir,11571.png,471.tiff,54.0,2460.0,canine soft tissue sarcoma,3D Histech,AMC New York,Canine,NMF,NMF,NMF,NMF,11571.png
+11583.png,,csv_image_not_present_in_images_dir,11583.png,492.tiff,51.0,2591.0,canine soft tissue sarcoma,3D Histech,VMU Vienna,Canine,NMF,NMF,NMF,NMF,11583.png
+11648.png,,csv_image_not_present_in_images_dir,11648.png,526.tiff,4593.0,24.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,11648.png
+11700.png,,csv_image_not_present_in_images_dir,11700.png,526.tiff,4662.0,5393.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,11700.png
+11721.png,,csv_image_not_present_in_images_dir,11721.png,535.tiff,4197.0,26.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,11721.png
+11772.png,,csv_image_not_present_in_images_dir,11772.png,535.tiff,48.0,2962.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,11772.png
+11788.png,,csv_image_not_present_in_images_dir,11788.png,535.tiff,7158.0,2679.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,11788.png
+11813.png,,csv_image_not_present_in_images_dir,11813.png,535.tiff,7168.0,3235.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,11813.png
+11844.png,,csv_image_not_present_in_images_dir,11844.png,542.tiff,3528.0,1.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,11844.png
+11847.png,,csv_image_not_present_in_images_dir,11847.png,542.tiff,4957.0,42.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,11847.png
+11877.png,,csv_image_not_present_in_images_dir,11877.png,542.tiff,54.0,3434.0,human melanoma,Hamamatsu XR,UMC Utrecht,Human,NMF,NMF,NMF,NMF,11877.png
