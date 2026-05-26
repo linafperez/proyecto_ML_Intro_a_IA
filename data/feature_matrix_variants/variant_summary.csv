@@ -1,0 +1,4 @@
+variant_name,output_dir,features,valid_images,training_images,validation_images
+rgb_cell_chromatin,data/feature_matrix_variants/rgb_cell_chromatin,45,9157,7325,1832
+lab_cell_chromatin,data/feature_matrix_variants/lab_cell_chromatin,45,9157,7325,1832
+hsv_cell_chromatin,data/feature_matrix_variants/hsv_cell_chromatin,45,9157,7325,1832
