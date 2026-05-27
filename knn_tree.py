@@ -41,10 +41,7 @@ RANDOM_STATE = 42
 # ─────────────────────────────────────────────
 
 def compute_metrics(name, y_true, y_pred, y_proba=None):
-    """
-    Balanced Accuracy (BA) = 0.5 * (recall_NMF + recall_AMF)
-    Es la métrica principal porque el dataset está desbalanceado.
-    """
+ 
     return {
         "modelo"            : name,
         "balanced_accuracy" : balanced_accuracy_score(y_true, y_pred),
