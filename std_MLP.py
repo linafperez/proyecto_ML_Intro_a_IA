@@ -16,9 +16,9 @@ y_train = np.load(os.path.join(DATA_PATH, "y_training.npy"))
 x_val = np.load(os.path.join(DATA_PATH, "X_validation.npy"))
 y_val = np.load(os.path.join(DATA_PATH, "y_validation.npy"))
 
-#scaler = StandardScaler()
-#x_train = scaler.fit_transform(x_train)
-#x_val = scaler.transform(x_val)
+scaler = StandardScaler()
+x_train = scaler.fit_transform(x_train)
+x_val = scaler.transform(x_val)
 
 print("Caracteristicas de entrenamiento (x_train):", x_train.shape)
 print("Etiquetas de entrenamiento (y_train):", y_train.shape)
@@ -43,7 +43,7 @@ model.compile(optimizer='adam',
               metrics=['accuracy'])
 
 mod = model.fit(x_train, y_train, 
-                epochs=30,
+                epochs=10,
                 batch_size=64,
                 validation_data=(x_val, y_val))
 

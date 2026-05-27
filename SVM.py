@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import balanced_accuracy_score, classification_report
 
-DATA_PATH = "data/processed/ml_ready/"
+DATA_PATH = "data/feature_matrix_variants/rgb_cell_chromatin/"
 
 # Importar los datos de entrenamiento y validacion
 x_train = np.load(os.path.join(DATA_PATH, "X_training.npy"))
@@ -16,7 +16,7 @@ scaler = StandardScaler()
 x_train = scaler.fit_transform(x_train)
 x_val = scaler.transform(x_val)
 
-svm = SVC(kernel="linear", C=1, class_weight="balanced")
+svm = SVC(kernel="rbf", C=0.6, class_weight="balanced")
 svm.fit(x_train, y_train)
 
 y_pred = svm.predict(x_val)
