@@ -1,0 +1,4 @@
+variante,mejor_modelo,balanced_accuracy,accuracy,f1,auc_roc
+rgb_cell_chromatin,DT max_depth=5,0.5971,0.6343,0.68,0.6188
+lab_cell_chromatin,DT max_depth=5,0.6,0.4814,0.537,0.612
+hsv_cell_chromatin,DT max_depth=5,0.5724,0.5142,0.574,0.5936
